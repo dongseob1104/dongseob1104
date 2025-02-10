@@ -2,10 +2,14 @@
 
 ## 📓언어📓
 
-- <span style="display: inline-flex; align-items: center; gap: 5px; background-color: #3776AB; color: white; padding: 1px 5px; border-radius: 3px;">
-  <img src="./img/java.png" alt="Java Icon" width="14" height="14">
-  Java
-  </span>
+- <table>
+    <tr>
+      <td style="display: inline-flex; align-items: center; gap: 5px; background-color: #3776AB; color: white; padding: 1px 5px; border-radius: 3px;">
+        <img src="./img/java.png" alt="Java Icon" width="14" height="14">
+        Java
+      </td>
+    </tr>
+  </table>
 
 ---
 
@@ -35,10 +39,14 @@
 
 ## 📗빌드 및 실행 도구📗
 
-- <span style="display: inline-flex; align-items: center; gap: 5px; background-color: #007acc; color: white; padding: 1px 5px; border-radius: 3px;">
-  <img src="./img/vscode.png" alt="Vscode Icon" width="14" height="14">
-  Visual Studio Code
-  </span>
+- <table>
+    <tr>
+      <td style="display: inline-flex; align-items: center; gap: 5px; background-color: #007acc; color: white; padding: 1px 5px; border-radius: 3px;">
+          <img src="./img/vscode.png" alt="Vscode Icon" width="14" height="14">
+      Visual Studio Code
+      </td>
+    </tr>
+  </table>
 
 ---
 
