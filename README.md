@@ -10,9 +10,7 @@
 
 - ![typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white "typescript")
 
-## 📙프레임워크📙
-
-- ![node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white "node.js")
+## 📙프레임워크 및 런타임 환경📙
 
 - ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white "spring")
 
@@ -20,7 +18,13 @@
 
 - ![android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white "android")
 
+- ![express.js](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white "express.js")
+
+- ![node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white "node.js")
+
 ## 📘데이터 베이스📘
+
+- ![mysql](https://img.shields.io/badge/SQL_Server-292222?style=flat&logo=data:image/png;base64,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 "mysql")
 
 - ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white "mysql")
 
@@ -40,9 +44,15 @@
 
 - ![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white "android studio")
 
+- ![docker compose](https://img.shields.io/badge/docker_compose-2496ED?style=flat&logo=docker&logoColor=white "docker compose")
+
 - ![docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white "docker")
 
 ## 🔖학습중🔖
+
+- ![html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white "html")
+
+- ![css](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white "css")
 
 - ![react](https://img.shields.io/badge/React-00569c?style=flat&logo=React&logoColor=white "react")
 
