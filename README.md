@@ -9,3 +9,13 @@
 | | ![node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white "node.js") | | ![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white "android studio") | ![redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white "redis") |
 | | | | ![docker compose](https://img.shields.io/badge/docker_compose-2496ED?style=flat&logo=docker&logoColor=white "docker compose") | |
 | | | | ![docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white "docker") | |
+
+---
+
+| GitHub 통계 | GitHub Langs Push 비율 |
+|:-----:|:---:|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongseob1104&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongseob1104&layout=donut&theme=transparent)  |
+
+---
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongseob1104%2Fhit-counter&count_bg=%233B9BFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today&edge_flat=true)
