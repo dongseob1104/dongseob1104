@@ -15,7 +15,3 @@
 | GitHub 통계 | GitHub Langs Push 비율 |
 |:-----:|:---:|
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongseob1104&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongseob1104&layout=donut&theme=transparent)  |
-
----
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongseob1104%2Fhit-counter&count_bg=%233B9BFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today&edge_flat=true)
