@@ -12,6 +12,6 @@
 
 ---
 
-| GitHub 통계 | GitHub Langs Push 비율 |
+<!-- | GitHub 통계 | GitHub Langs Push 비율 |
 |:-----:|:---:|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongseob1104&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongseob1104&layout=donut&theme=transparent)  |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongseob1104&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongseob1104&layout=donut&theme=transparent)  | -->
